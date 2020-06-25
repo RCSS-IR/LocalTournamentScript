@@ -1,6 +1,4 @@
-# LocalTournamentScript
-Local Tournament Script
-
+# Local Tournament Script
 ## You can use this repository to run soccer simulation tournament.
 
 #### clone https://github.com/RCSS-IR/LocalTournamentScript.git
