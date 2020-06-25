@@ -28,8 +28,6 @@ if [[ $1 = *"<b>simple_team_name</b>"* ]]; then
 fi
 </pre>
 
-```
-```
 Examples:
 ```
 if [[ $1 = *"cyrus"* ]]; then
